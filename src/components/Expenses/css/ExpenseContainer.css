@@ -1,0 +1,16 @@
+.expenseList{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.container{
+    width: 90%;
+    background-color: #232323;
+    padding: 2.5rem 1rem 0.7rem;
+}
+
+@media screen and (min-width: 1150px) {
+    .container{
+        width: 60%;
+    }
+}

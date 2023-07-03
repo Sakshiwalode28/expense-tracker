@@ -1,0 +1,48 @@
+.expenseItem{
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+   background-color: #4b4b4b;
+   margin: 0 0 1rem ;
+   padding: 0.5rem 1rem;
+   width: 100%;
+   flex: 1;
+}
+
+.expenseItem_discription{
+   display: flex;
+   align-items: center;
+   justify-content: space-between;
+   flex:1;
+}
+
+/* DATE */
+.expenseItem_date{
+    border: 1px solid #ececec;
+    background-color: #232323;
+    color: white;
+    width: 5.6rem;
+    height: 5.6rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.1rem;
+}
+
+
+/* DISCRIPTION */
+.expenseItem_name{
+    color: white;
+    font-size: 2rem;
+    padding: 0 3rem;
+}
+
+.expenseItem_price{
+    border: 1px solid #ececec;
+    border-radius: 12px;
+    color: white;
+    background-color:#40005d;
+    font-size: 1.8rem;
+    padding: 0.3rem 1.5rem;
+}
