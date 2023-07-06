@@ -1,6 +1,6 @@
 {
-  "name": "expenses-tracker",
-  "homepage": "http://sakshiwalode28.github.io/Expense-tracker",
+  "name": "expense-tracker",
+  "homepage": "http://sakshiwalode28.github.io/expense-tracker",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
